@@ -1,5 +1,5 @@
 {
-  "name": "contractjs",
+  "name": "smart-contractjs",
   "version": "1.0.0",
   "description": "Are you a developer and want to learn blockchain but don't want to learn a completely new language just for smart contract ?",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anishpras/contract-js.git"
+    "url": "git+https://github.com/Anishpras/smart-contract-js.git"
   },
   "author": "Anish Prashun",
   "license": "ISC",
