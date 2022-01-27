@@ -2,4 +2,4 @@ const createContract = () => {
   console.log("Hello");
 };
 
-export default createContract;
+module.exports = createContract
